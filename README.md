@@ -8,12 +8,11 @@
 ### 💻 Languages
 ![Static Badge](https://img.shields.io/badge/language-white?style=plastic&logo=c&logoColor=white&labelColor=blue&color=blue)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-white?style=plastic&logo=cplusplus&logoColor=white&labelColor=blue&color=blue)
-![Static Badge](https://img.shields.io/badge/Java-white?style=plastic&logo=openjdk&logoColor=blue&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Java%2FGroovy-white?style=plastic&logo=apache%20groovy&logoColor=green&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Python-white?style=plastic&logo=python&logoColor=yellow&labelColor=blue&color=blue)
 ![Static Badge](https://img.shields.io/badge/Bash-white?style=plastic&logo=gnubash&logoColor=white&labelColor=grey&color=grey)
 ![Static Badge](https://img.shields.io/badge/JavaScript-white?style=plastic&logo=javascript&logoColor=yellow&labelColor=black&color=black)
-![Static Badge](https://img.shields.io/badge/HTML5-white?style=plastic&logo=html5&logoColor=orange&labelColor=white&color=white)
-![Static Badge](https://img.shields.io/badge/CSS3-white?style=plastic&logo=css3&logoColor=blue&labelColor=white&color=white)
+![Static Badge](https://img.shields.io/badge/HTML-white?style=plastic&logo=html5&logoColor=orange&labelColor=white&color=white)
 
 ### 🧰 Tools
 ![Static Badge](https://img.shields.io/badge/Linux-white?style=plastic&logo=linux&logoColor=black&labelColor=white&color=white)
