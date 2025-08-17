@@ -6,8 +6,7 @@
 - Currently diving deeper into cloud architecture and platforms
 
 ### 💻 Languages
-![Static Badge](https://img.shields.io/badge/language-white?style=plastic&logo=c&logoColor=white&labelColor=blue&color=blue)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-white?style=plastic&logo=cplusplus&logoColor=white&labelColor=blue&color=blue)
+![Static Badge](https://img.shields.io/badge/C%2FC%2B%2B-white?style=plastic&logo=cplusplus&logoColor=white&labelColor=blue&color=blue)
 ![Static Badge](https://img.shields.io/badge/Java%2FGroovy-white?style=plastic&logo=apache%20groovy&logoColor=green&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Python-white?style=plastic&logo=python&logoColor=yellow&labelColor=blue&color=blue)
 ![Static Badge](https://img.shields.io/badge/Bash-white?style=plastic&logo=gnubash&logoColor=white&labelColor=grey&color=grey)
