@@ -1,9 +1,9 @@
 # Hello there 👋 I'm Simon
-- DevOps engineer with a passion for automation and infrastructure
-- ICT graduate, currently pursuing a Master’s degree in the same field
-- Strong Linux background and love for scripting in Bash and Python
-- Interested in tech, music, and learning new things  
-- Currently diving deeper into cloud architecture and platforms
+- 🚀 DevOps engineer with a specialization in automation and infrastructure
+- 🎓 ICT graduate, currently pursuing a Master’s degree in the same field
+- 🐧 Linux enjoyer and chronic distro hopper 😅
+- 🎧 Interested in tech, electronic music, and learning new languages
+- 🎲 In my free time I love traveling, fishing, and playing board games with friends
 
 ### 💻 Languages
 ![Static Badge](https://img.shields.io/badge/C%2FC%2B%2B-white?style=plastic&logo=cplusplus&logoColor=white&labelColor=blue&color=blue)
