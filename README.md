@@ -3,6 +3,8 @@
 - ICT graduate, currently pursuing a Master’s degree in the same field
 - Interested in tech, electronic music, and traveling
 
+---
+
 ### 🧰 Languages and Tools
 <img align="left" alt="cpp" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
