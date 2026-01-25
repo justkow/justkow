@@ -3,23 +3,24 @@
 - ICT graduate, currently pursuing a Master’s degree in the same field
 - Interested in tech, electronic music, and traveling
 
-### 💻 Languages
-![Static Badge](https://img.shields.io/badge/C%2FC%2B%2B-white?style=plastic&logo=cplusplus&logoColor=white&labelColor=blue&color=blue)
-![Static Badge](https://img.shields.io/badge/Java%2FGroovy-white?style=plastic&logo=apache%20groovy&logoColor=green&labelColor=white)
-![Static Badge](https://img.shields.io/badge/Python-white?style=plastic&logo=python&logoColor=yellow&labelColor=blue&color=blue)
-![Static Badge](https://img.shields.io/badge/Bash-white?style=plastic&logo=gnubash&logoColor=white&labelColor=grey&color=grey)
-![Static Badge](https://img.shields.io/badge/JavaScript-white?style=plastic&logo=javascript&logoColor=yellow&labelColor=black&color=black)
-![Static Badge](https://img.shields.io/badge/HTML-white?style=plastic&logo=html5&logoColor=orange&labelColor=white&color=white)
+### 🧰 Languages and Tools
+<img align="left" alt="cpp" width="30px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+<img align="left" alt="js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="html" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="k8s" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+<img align="left" alt="ansible" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
+<img align="left" alt="jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
+<img align="left" alt="postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 
-### 🧰 Tools
-![Static Badge](https://img.shields.io/badge/Linux-white?style=plastic&logo=linux&logoColor=black&labelColor=white&color=white)
-![Static Badge](https://img.shields.io/badge/Git-white?style=plastic&logo=git&logoColor=%23F05032&labelColor=white&color=white)
-![Static Badge](https://img.shields.io/badge/Docker-blue?style=plastic&logo=docker&labelColor=white&color=white)
-![Static Badge](https://img.shields.io/badge/Kubernetes-blue?style=plastic&logo=kubernetes&labelColor=white&color=white)
-![Static Badge](https://img.shields.io/badge/Ansible-white?style=plastic&logo=ansible&logoColor=red&labelColor=white)
-![Static Badge](https://img.shields.io/badge/Jenkins-white?style=plastic&logo=jenkins&logoColor=black&labelColor=white)
-![Static Badge](https://img.shields.io/badge/Openstack-white?style=plastic&logo=openstack&logoColor=%23ED1944&labelColor=white)
-![Static Badge](https://img.shields.io/badge/PostgreSQL-white?style=plastic&logo=postgresql&logoColor=blue&labelColor=white)
 <br/><br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=justkow&show_icons=true&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=justkow&theme=gruvbox&layout=compact&langs_count=8)
